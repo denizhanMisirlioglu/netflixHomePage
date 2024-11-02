@@ -1,8 +1,8 @@
 # Netflix HomePage UI Clone
 
 <p align="center">
-  <img src="images/Black Google Pixel 2_1.png" width="45%" />
-  <img src="images/Black Google Pixel 2.png" width="45%" />
+  <img src="images/BlackGooglePixel 2_1.png" width="45%" />
+  <img src="images/BlackGooglePixel 2.png" width="45%" />
 </p>
 
 ## Project Description
