@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="images/picture1.png" width="45%" />
-  <img src="images/BlackGooglePixel 2.png" width="45%" />
+  <img src="images/picture2.png" width="45%" />
 </p>
 
 ## Project Description
