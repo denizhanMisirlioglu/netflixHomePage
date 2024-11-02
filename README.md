@@ -1,7 +1,7 @@
 # Netflix HomePage UI Clone
 
 <p align="center">
-  <img src="images/picture1.png" width="70%" />
+  <img src="picture1.png" width="70%" />
 </p>
 
 
