@@ -21,3 +21,6 @@ This project is an interactive Netflix homepage UI clone built with **Flutter** 
 - **Scrollable Content**: The app supports both vertical scrolling for the main content and horizontal scrolling within each category row, enabling users to explore a wide range of content with ease.
 
 This project showcases the power of Flutter in building responsive and visually rich UIs for mobile, emphasizing real-time API integration and interactive design elements for an immersive user experience.
+
+#### API KEY
+  API_KEY=your_api_key_here  // get api key from [TMDb API](https://www.themoviedb.org/)  and replace with mine. 
