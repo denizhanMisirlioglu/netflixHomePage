@@ -1,4 +1,4 @@
-# Netflix HomePage UI Clone
+# Netflix HomePage UI 
 
 <p align="center">
   <img src="picture1.png" width="70%" />
